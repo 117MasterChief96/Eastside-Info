@@ -1,1 +1,8 @@
-Currently No Other Versions
+Version 1.1.67 (3):
+	Added:
+		1. Support for full-screen-mode on videos under Live tab by creating and implementing custom class of WebChromeClient()
+
+	Changed:
+		1. Set version number and build number to update automatically
+		2. Changed "Report a Bug" button to "Feedback" under the More Info tab
+		3. Sensitivity to change between tabs was decreased
